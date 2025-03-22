@@ -3,8 +3,8 @@ A playground of quirky thoughts & experiments!
 
 
 ## Explore, Play & Experience
-- **Digital Crave** - A simulation clicker game that captures the addictive loop of digital consumption, instant gratification, and endless accumulation.  
-- **Craftfinity** - Combine elements endlessly to discover new and unexpected creations.  
+- **Craftfinity** - Mix Earth, Water, Air, Fire, and Space to create endless AI-generated discoveries. 🌍🔥💧🌬️🌌.
+- **Digital Crave** - A stimulation clicker game that captures the addictive loop of digital consumption, instant gratification, and endless accumulation.  
 - **Password Maze** - A password game where the rules keep getting more absurd.  
 - **Mind-Blown Facts** - Explore shocking and unexpected events from around the world.  
 - **Circle Mastery** - Test your precision by trying to draw the perfect circle freehand.  
